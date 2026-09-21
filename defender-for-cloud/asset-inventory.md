@@ -281,9 +281,9 @@ Assets are automatically classified based on:
 
 Each asset displays coverage information:
 
-- **Protected**: Full Defender for Cloud protection enabled
-- **Partial**: Some security features enabled, others available for upgrade
-- **Unprotected**: No Defender for Cloud protection, requires onboarding
+- **Covered**: Full Defender for Cloud protection enabled
+- **Partially Covered**: Some security features enabled, others available for upgrade
+- **Not Covered**: No Defender for Cloud protection, requires onboarding
 - **Excluded**: Explicitly excluded from monitoring or protection
 
 ### Health and risk signals
